@@ -218,7 +218,7 @@ const ConclusionSlide = () => {
       </div>
 
       {/* Footer */}
-      <div className="flex justify-end text-gray-400 text-sm">© 2025 Dental Solutions</div>
+      <div className="flex justify-end text-gray-400 text-sm">© Cubable Dental Solutions</div>
     </div>
   )
 }
