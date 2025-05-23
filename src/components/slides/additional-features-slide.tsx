@@ -29,7 +29,7 @@ const AdditionalFeaturesSlide = () => {
               />
             </div>
           </div>
-
+ 
           {/* Right Column - Benefits and Stats */}
           <div className="w-3/5 pl-6">
             <h2 className="text-2xl font-bold text-gray-800 mb-6">Theo dõi sức khỏe răng miệng toàn diện</h2>
